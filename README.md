@@ -1,6 +1,5 @@
 # deepseek-balance-checker
 macOS tool: One‑click check DeepSeek API balance &amp; token estimate, with AppleScript shortcut.
-```markdown
 
 > macOS 一键查询 DeepSeek API 账户余额工具，搭配 AppleScript，快速估算可用 Token 数量。
 
