@@ -14,8 +14,8 @@ macOS tool: One‑click check DeepSeek API balance &amp; token estimate, with Ap
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/WangFukai-66/macOS-shortcut/deepseek-balance-checker.git
-cd deepseek‑balance‑checker
+git clone https://github.com/WangFukai-66/macOS-shortcut.git
+cd macOS-shortcut/deepseek-balance-checker
 ```
 
 ### 2. 配置 API Key
