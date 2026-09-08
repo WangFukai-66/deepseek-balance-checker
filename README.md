@@ -16,5 +16,7 @@ cd macOS-shortcut
 3. 复制对应 AppleScript，导入macOS「快捷指令」即可一键运行
 
 ⚠️提示
+
 • AppleScript脚本内文件路径需要和本地实际文件位置匹配
+
 • 部分网页工具需要网络加载外部依赖库
