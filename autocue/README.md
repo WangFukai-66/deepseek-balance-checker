@@ -16,10 +16,9 @@ on run {input, parameters}
 	end tell
 	return input
 end run
-
-路径需与autocue.html实际存放位置保持一致；切换Safari只需修改脚本内浏览器名称。
-操作步骤
 ```
+路径需与autocue.html实际存放位置保持一致；切换Safari只需修改脚本内浏览器名称。
+操作步骤:
 1. 运行脚本，Edge自动打开提词器页面
 
 2. 选择本地txt/docx文稿
